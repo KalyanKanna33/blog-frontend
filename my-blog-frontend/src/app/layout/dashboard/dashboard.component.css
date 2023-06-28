@@ -1,0 +1,19 @@
+.menu{
+    list-style-type: none;
+    float: left;
+    width: 17%;
+    height: 90vh;
+    padding: 60px;
+    margin-top: 80px;
+    background-color: black;
+}
+a{
+    display: block;
+    padding: 30px;
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+    font-size: 16px;
+}

@@ -2,4 +2,6 @@
     color: coral;
     border: 1px solid coral;
 }
-
+.dash{
+    border-radius: 10px 10px 10px 10px;
+}
