@@ -1,7 +1,21 @@
 .subs{
     margin-top: 100px;
 }
+<<<<<<< HEAD
 .para{
     text-align: center;
     font-size: 40px;
 }
+=======
+.heading{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: blueviolet;
+}
+.btn{
+    margin-left: 610px;
+    margin-top: 50px;
+    
+}
+>>>>>>> 8f98d70fdde146c1b7deb9df1a82ef28584da148
