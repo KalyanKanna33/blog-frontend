@@ -1,3 +1,14 @@
 .subs{
     margin-top: 100px;
 }
+.heading{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: blueviolet;
+}
+.btn{
+    margin-left: 610px;
+    margin-top: 50px;
+    
+}
